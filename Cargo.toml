@@ -1,0 +1,7 @@
+[package]
+name = "computing_prime_numbers"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+num_cpus = "1.13.1"
